@@ -31,10 +31,10 @@
                       "repo_info": {
                         "archived": false,
                         "language": "Python",
-                        "last_commit": "2026-08-03T16:07:49Z",
+                        "last_commit": "2026-08-15T14:12:13Z",
                         "owner": "wsvincent",
                         "repo": "awesome-django",
-                        "stars": 11201
+                        "stars": 11200
                       }
                     }
                   ]
@@ -62,7 +62,7 @@
                         "last_commit": "2026-06-24T17:30:19Z",
                         "owner": "mjhea0",
                         "repo": "awesome-fastapi",
-                        "stars": 11592
+                        "stars": 11596
                       }
                     }
                   ]
@@ -90,7 +90,7 @@
                         "last_commit": "2024-12-30T09:48:42Z",
                         "owner": "ucg8j",
                         "repo": "awesome-dash",
-                        "stars": 2266
+                        "stars": 2267
                       }
                     }
                   ]
@@ -143,10 +143,10 @@
                       "repo_info": {
                         "archived": false,
                         "language": "Java",
-                        "last_commit": "2026-08-14T10:36:27Z",
+                        "last_commit": "2026-08-15T04:08:34Z",
                         "owner": "SeleniumHQ",
                         "repo": "selenium",
-                        "stars": 34373
+                        "stars": 34382
                       }
                     },
                     {
@@ -157,10 +157,10 @@
                       "repo_info": {
                         "archived": false,
                         "language": "Java",
-                        "last_commit": "2026-08-14T10:36:27Z",
+                        "last_commit": "2026-08-15T04:08:34Z",
                         "owner": "SeleniumHQ",
                         "repo": "selenium",
-                        "stars": 34373
+                        "stars": 34382
                       }
                     },
                     {
@@ -174,7 +174,7 @@
                         "last_commit": "2025-03-03T17:10:09Z",
                         "owner": "InstaPy",
                         "repo": "InstaPy",
-                        "stars": 18142
+                        "stars": 18147
                       }
                     },
                     {
@@ -188,7 +188,7 @@
                         "last_commit": "2026-08-14T02:14:25Z",
                         "owner": "seleniumbase",
                         "repo": "SeleniumBase",
-                        "stars": 12925
+                        "stars": 12927
                       }
                     },
                     {
@@ -244,7 +244,7 @@
                         "last_commit": "2024-01-03T15:34:32Z",
                         "owner": "wkeeling",
                         "repo": "selenium-wire",
-                        "stars": 1969
+                        "stars": 1968
                       }
                     },
                     {
@@ -272,7 +272,7 @@
                         "last_commit": "2024-04-15T10:15:21Z",
                         "owner": "YoongiKim",
                         "repo": "AutoCrawler",
-                        "stars": 1693
+                        "stars": 1692
                       }
                     },
                     {
@@ -307,7 +307,7 @@
                         "last_commit": "2026-08-14T00:17:01Z",
                         "owner": "microsoft",
                         "repo": "playwright-python",
-                        "stars": 14914
+                        "stars": 14917
                       }
                     }
                   ]
@@ -356,7 +356,7 @@
                         "last_commit": "2026-02-21T21:11:58Z",
                         "owner": "LonamiWebs",
                         "repo": "Telethon",
-                        "stars": 12066
+                        "stars": 12065
                       }
                     }
                   ]
@@ -416,10 +416,10 @@
                       "repo_info": {
                         "archived": false,
                         "language": "Python",
-                        "last_commit": "2026-08-09T01:08:39Z",
+                        "last_commit": "2026-08-15T10:55:53Z",
                         "owner": "python-telegram-bot",
                         "repo": "python-telegram-bot",
-                        "stars": 29407
+                        "stars": 29412
                       }
                     }
                   ]
@@ -440,7 +440,7 @@
                         "last_commit": "2026-08-08T18:28:40Z",
                         "owner": "aiogram",
                         "repo": "aiogram",
-                        "stars": 5828
+                        "stars": 5829
                       }
                     }
                   ]
@@ -510,7 +510,7 @@
                         "last_commit": "2026-07-27T18:33:15Z",
                         "owner": "Rapptz",
                         "repo": "discord.py",
-                        "stars": 16134
+                        "stars": 16137
                       }
                     }
                   ]
@@ -551,7 +551,7 @@
                         "last_commit": "2025-03-03T17:10:09Z",
                         "owner": "InstaPy",
                         "repo": "InstaPy",
-                        "stars": 18142
+                        "stars": 18147
                       }
                     }
                   ]
@@ -572,7 +572,7 @@
                         "last_commit": "2026-07-26T09:19:23Z",
                         "owner": "instaloader",
                         "repo": "instaloader",
-                        "stars": 13120
+                        "stars": 13125
                       }
                     }
                   ]
@@ -613,7 +613,7 @@
                         "last_commit": "2026-07-10T04:45:12Z",
                         "owner": "memcached",
                         "repo": "memcached",
-                        "stars": 14251
+                        "stars": 14250
                       }
                     }
                   ]
@@ -645,10 +645,10 @@
                       "repo_info": {
                         "archived": false,
                         "language": "Python",
-                        "last_commit": "2026-08-14T14:47:42Z",
+                        "last_commit": "2026-08-14T21:35:51Z",
                         "owner": "django",
                         "repo": "django",
-                        "stars": 88425
+                        "stars": 88429
                       }
                     }
                   ]
@@ -781,7 +781,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T15:08:06.212Z",
+    "last_updated": "2026-08-15T14:40:22.077Z",
     "original_repository": "DjangoEx/awesome-python-resources",
     "original_repository_sha": "8dc32337fc2f9a932385d46000256cf1a6162b9c",
     "enhanced_repository": "enhansome/enhansome-python-resources",
