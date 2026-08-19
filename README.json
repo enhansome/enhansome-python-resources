@@ -143,10 +143,10 @@
                         "archived": false,
                         "id": 7613257,
                         "language": "Java",
-                        "last_commit": "2026-08-19T11:39:25Z",
+                        "last_commit": "2026-08-19T14:30:21Z",
                         "owner": "SeleniumHQ",
                         "repo": "selenium",
-                        "stars": 34379
+                        "stars": 34381
                       }
                     },
                     {
@@ -158,10 +158,10 @@
                         "archived": false,
                         "id": 7613257,
                         "language": "Java",
-                        "last_commit": "2026-08-19T11:39:25Z",
+                        "last_commit": "2026-08-19T14:30:21Z",
                         "owner": "SeleniumHQ",
                         "repo": "selenium",
-                        "stars": 34379
+                        "stars": 34381
                       }
                     },
                     {
@@ -318,7 +318,7 @@
                         "last_commit": "2026-08-14T00:17:01Z",
                         "owner": "microsoft",
                         "repo": "playwright-python",
-                        "stars": 14922
+                        "stars": 14923
                       }
                     }
                   ]
@@ -435,7 +435,7 @@
                         "last_commit": "2026-08-16T21:13:26Z",
                         "owner": "python-telegram-bot",
                         "repo": "python-telegram-bot",
-                        "stars": 29417
+                        "stars": 29418
                       }
                     }
                   ]
@@ -581,7 +581,7 @@
                         "last_commit": "2026-07-26T09:19:23Z",
                         "owner": "instaloader",
                         "repo": "instaloader",
-                        "stars": 13166
+                        "stars": 13167
                       }
                     }
                   ]
@@ -796,7 +796,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:51:38.516Z",
+    "last_updated": "2026-08-19T14:53:43.967Z",
     "original_repository": "DjangoEx/awesome-python-resources",
     "original_repository_id": 489442970,
     "original_repository_sha": "8dc32337fc2f9a932385d46000256cf1a6162b9c",

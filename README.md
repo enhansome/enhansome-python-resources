@@ -5,7 +5,7 @@
 
 ### Contribution
 
-Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You are new to contribution process? For more information about the steps and guides, check out the [First Contribution Guide](https://github.com/firstcontributions/first-contributions) ⭐ 55,554 | 🐛 87 | 📅 2026-08-19.
+Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You are new to contribution process? For more information about the steps and guides, check out the [First Contribution Guide](https://github.com/firstcontributions/first-contributions) ⭐ 55,558 | 🐛 87 | 📅 2026-08-19.
 
 ### Table of Contents
 
@@ -78,7 +78,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     * [Codeforces](https://codeforces.com/)
 
   * **Repo**
-    * ✅ [Coding University](https://github.com/jwasham/coding-interview-university) ⭐ 359,200 | 🐛 124 | 📅 2025-08-28
+    * ✅ [Coding University](https://github.com/jwasham/coding-interview-university) ⭐ 359,211 | 🐛 124 | 📅 2025-08-28
     * [Algorithm solution and summary of Grokking book](https://github.com/msdundar/notes-algorithms) ⭐ 45 | 🐛 0 | 🌐 Python | 📅 2021-01-25
 
   * **Cheat Sheet**
@@ -446,8 +446,8 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
   * #### Web
 
     * #### Selenium
-      * [Selenium (Main Home)](https://github.com/SeleniumHQ/selenium) ⭐ 34,379 | 🐛 185 | 🌐 Java | 📅 2026-08-19
-      * [Source](https://github.com/SeleniumHQ/selenium/tree/trunk/py) ⭐ 34,379 | 🐛 185 | 🌐 Java | 📅 2026-08-19
+      * [Selenium (Main Home)](https://github.com/SeleniumHQ/selenium) ⭐ 34,381 | 🐛 185 | 🌐 Java | 📅 2026-08-19
+      * [Source](https://github.com/SeleniumHQ/selenium/tree/trunk/py) ⭐ 34,381 | 🐛 185 | 🌐 Java | 📅 2026-08-19
       * [InstaPy](https://github.com/InstaPy/InstaPy) ⭐ 18,156 | 🐛 584 | 🌐 Python | 📅 2025-03-03
       * [Base](https://github.com/seleniumbase/SeleniumBase) ⭐ 12,934 | 🐛 14 | 🌐 Python | 📅 2026-08-19
       * [Undetected](https://github.com/ultrafunkamsterdam/undetected-chromedriver) ⭐ 12,801 | 🐛 1,141 | 🌐 Python | 📅 2025-07-05
@@ -461,7 +461,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
       * [Documentation](https://www.selenium.dev/selenium/docs/api/py/)
 
     * #### PlayWright
-      * [Source](https://github.com/microsoft/playwright-python) ⭐ 14,922 | 🐛 3 | 🌐 Python | 📅 2026-08-14
+      * [Source](https://github.com/microsoft/playwright-python) ⭐ 14,923 | 🐛 3 | 🌐 Python | 📅 2026-08-14
       * [Documentation](https://playwright.dev/python/docs/intro)
 
     * #### Browser
@@ -485,7 +485,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
       * [Documentation](https://docs.pyrogram.org/)
 
     * #### Python Telegram Bot
-      * [Source](https://github.com/python-telegram-bot/python-telegram-bot) ⭐ 29,417 | 🐛 33 | 🌐 Python | 📅 2026-08-16
+      * [Source](https://github.com/python-telegram-bot/python-telegram-bot) ⭐ 29,418 | 🐛 33 | 🌐 Python | 📅 2026-08-16
       * [Documentation](https://python-telegram-bot.readthedocs.io/)
 
     * #### AIOGram
@@ -510,7 +510,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     * #### InstaPy
       * [Source](https://github.com/InstaPy/InstaPy) ⭐ 18,156 | 🐛 584 | 🌐 Python | 📅 2025-03-03
     * ### Instaloader
-      * [Source](https://github.com/instaloader/instaloader) ⭐ 13,166 | 🐛 55 | 🌐 Python | 📅 2026-07-26
+      * [Source](https://github.com/instaloader/instaloader) ⭐ 13,167 | 🐛 55 | 🌐 Python | 📅 2026-07-26
 
 ## Advanced Topics
 
