@@ -1,12 +1,7 @@
 {
   "items": [
     {
-      "description": "Before you head over, read the Contribution Guide first. You are new to contribution process? For more information about the steps and guides, check out the First Contribution Guide.",
-      "items": [],
-      "title": "Contribution"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "group",
@@ -30,11 +25,12 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "id": 129094260,
                         "language": "Python",
                         "last_commit": "2026-08-18T13:46:11Z",
                         "owner": "wsvincent",
                         "repo": "awesome-django",
-                        "stars": 11201
+                        "stars": 11203
                       }
                     }
                   ]
@@ -58,6 +54,7 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "id": 260928305,
                         "language": null,
                         "last_commit": "2026-06-24T17:30:19Z",
                         "owner": "mjhea0",
@@ -86,6 +83,7 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "id": 107999883,
                         "language": "Python",
                         "last_commit": "2024-12-30T09:48:42Z",
                         "owner": "ucg8j",
@@ -107,6 +105,7 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "id": 326438332,
                         "language": "Python",
                         "last_commit": "2021-01-05T09:47:55Z",
                         "owner": "CzakoZoltan08",
@@ -142,11 +141,12 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "id": 7613257,
                         "language": "Java",
-                        "last_commit": "2026-08-18T10:56:28Z",
+                        "last_commit": "2026-08-19T11:39:25Z",
                         "owner": "SeleniumHQ",
                         "repo": "selenium",
-                        "stars": 34374
+                        "stars": 34379
                       }
                     },
                     {
@@ -156,11 +156,12 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "id": 7613257,
                         "language": "Java",
-                        "last_commit": "2026-08-18T10:56:28Z",
+                        "last_commit": "2026-08-19T11:39:25Z",
                         "owner": "SeleniumHQ",
                         "repo": "selenium",
-                        "stars": 34374
+                        "stars": 34379
                       }
                     },
                     {
@@ -170,11 +171,12 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "id": 69290591,
                         "language": "Python",
                         "last_commit": "2025-03-03T17:10:09Z",
                         "owner": "InstaPy",
                         "repo": "InstaPy",
-                        "stars": 18152
+                        "stars": 18156
                       }
                     },
                     {
@@ -184,11 +186,12 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "id": 17420614,
                         "language": "Python",
-                        "last_commit": "2026-08-18T04:32:00Z",
+                        "last_commit": "2026-08-19T04:31:26Z",
                         "owner": "seleniumbase",
                         "repo": "SeleniumBase",
-                        "stars": 12935
+                        "stars": 12934
                       }
                     },
                     {
@@ -198,6 +201,7 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "id": 229566288,
                         "language": "Python",
                         "last_commit": "2025-07-05T10:42:02Z",
                         "owner": "ultrafunkamsterdam",
@@ -212,11 +216,12 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "id": 224234024,
                         "language": "Python",
                         "last_commit": "2026-08-10T07:25:19Z",
                         "owner": "mherrmann",
                         "repo": "helium",
-                        "stars": 8326
+                        "stars": 8325
                       }
                     },
                     {
@@ -226,11 +231,12 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "id": 921367,
                         "language": "Python",
                         "last_commit": "2025-08-16T15:08:24Z",
                         "owner": "cobrateam",
                         "repo": "splinter",
-                        "stars": 2751
+                        "stars": 2752
                       }
                     },
                     {
@@ -240,6 +246,7 @@
                       "children": [],
                       "repo_info": {
                         "archived": true,
+                        "id": 137925467,
                         "language": "Python",
                         "last_commit": "2024-01-03T15:34:32Z",
                         "owner": "wkeeling",
@@ -254,6 +261,7 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "id": 95916519,
                         "language": "Python",
                         "last_commit": "2026-08-17T00:19:45Z",
                         "owner": "tryolabs",
@@ -268,6 +276,7 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "id": 158573339,
                         "language": "Python",
                         "last_commit": "2024-04-15T10:15:21Z",
                         "owner": "YoongiKim",
@@ -282,6 +291,7 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "id": 72855067,
                         "language": "HTML",
                         "last_commit": "2025-05-15T17:43:34Z",
                         "owner": "executeautomation",
@@ -303,11 +313,12 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "id": 276414382,
                         "language": "Python",
                         "last_commit": "2026-08-14T00:17:01Z",
                         "owner": "microsoft",
                         "repo": "playwright-python",
-                        "stars": 14921
+                        "stars": 14922
                       }
                     }
                   ]
@@ -324,6 +335,7 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "id": 136581530,
                         "language": "Python",
                         "last_commit": "2026-08-06T07:41:39Z",
                         "owner": "nateshmbhat",
@@ -352,6 +364,7 @@
                       "children": [],
                       "repo_info": {
                         "archived": true,
+                        "id": 66641037,
                         "language": "Python",
                         "last_commit": "2026-02-21T21:11:58Z",
                         "owner": "LonamiWebs",
@@ -373,6 +386,7 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "id": 14880555,
                         "language": "CSS",
                         "last_commit": "2013-12-16T20:20:56Z",
                         "owner": "pygram",
@@ -394,6 +408,7 @@
                       "children": [],
                       "repo_info": {
                         "archived": true,
+                        "id": 113971228,
                         "language": "Python",
                         "last_commit": "2024-12-23T21:00:22Z",
                         "owner": "pyrogram",
@@ -415,11 +430,12 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "id": 38696925,
                         "language": "Python",
                         "last_commit": "2026-08-16T21:13:26Z",
                         "owner": "python-telegram-bot",
                         "repo": "python-telegram-bot",
-                        "stars": 29414
+                        "stars": 29417
                       }
                     }
                   ]
@@ -436,11 +452,12 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "id": 111210856,
                         "language": "Python",
-                        "last_commit": "2026-08-08T18:28:40Z",
+                        "last_commit": "2026-08-18T15:34:30Z",
                         "owner": "aiogram",
                         "repo": "aiogram",
-                        "stars": 5835
+                        "stars": 5837
                       }
                     }
                   ]
@@ -457,8 +474,9 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "id": 38095954,
                         "language": "Python",
-                        "last_commit": "2026-08-16T10:39:34Z",
+                        "last_commit": "2026-08-18T20:27:59Z",
                         "owner": "eternnoir",
                         "repo": "pyTelegramBotAPI",
                         "stars": 8761
@@ -478,6 +496,7 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "id": 38969252,
                         "language": "Python",
                         "last_commit": "2023-04-26T04:34:43Z",
                         "owner": "KyleJamesWalker",
@@ -506,11 +525,12 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "id": 41179827,
                         "language": "Python",
                         "last_commit": "2026-07-27T18:33:15Z",
                         "owner": "Rapptz",
                         "repo": "discord.py",
-                        "stars": 16138
+                        "stars": 16143
                       }
                     }
                   ]
@@ -531,27 +551,15 @@
                       "node_type": "item",
                       "title": "Source",
                       "description": null,
-                      "children": []
-                    }
-                  ]
-                },
-                {
-                  "node_type": "group",
-                  "title": "",
-                  "description": null,
-                  "children": [
-                    {
-                      "node_type": "item",
-                      "title": "Source",
-                      "description": null,
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "id": 69290591,
                         "language": "Python",
                         "last_commit": "2025-03-03T17:10:09Z",
                         "owner": "InstaPy",
                         "repo": "InstaPy",
-                        "stars": 18152
+                        "stars": 18156
                       }
                     }
                   ]
@@ -568,11 +576,12 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "id": 61200117,
                         "language": "Python",
                         "last_commit": "2026-07-26T09:19:23Z",
                         "owner": "instaloader",
                         "repo": "instaloader",
-                        "stars": 13153
+                        "stars": 13166
                       }
                     }
                   ]
@@ -609,11 +618,12 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "id": 184981,
                         "language": "C",
                         "last_commit": "2026-07-10T04:45:12Z",
                         "owner": "memcached",
                         "repo": "memcached",
-                        "stars": 14251
+                        "stars": 14252
                       }
                     }
                   ]
@@ -644,11 +654,12 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "id": 4164482,
                         "language": "Python",
-                        "last_commit": "2026-08-18T14:36:58Z",
+                        "last_commit": "2026-08-19T11:53:56Z",
                         "owner": "django",
                         "repo": "django",
-                        "stars": 88469
+                        "stars": 88474
                       }
                     }
                   ]
@@ -672,11 +683,12 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "id": 979480,
                         "language": "Python",
                         "last_commit": "2026-08-14T13:00:45Z",
                         "owner": "coleifer",
                         "repo": "peewee",
-                        "stars": 11985
+                        "stars": 11986
                       }
                     }
                   ]
@@ -700,6 +712,7 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "id": 8087816,
                         "language": "Python",
                         "last_commit": "2026-08-10T12:37:32Z",
                         "owner": "ponyorm",
@@ -735,11 +748,12 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "id": 63188650,
                         "language": null,
                         "last_commit": "2026-08-05T00:07:38Z",
                         "owner": "microsoft",
                         "repo": "api-guidelines",
-                        "stars": 23317
+                        "stars": 23318
                       }
                     }
                   ]
@@ -763,6 +777,7 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "id": 165518284,
                         "language": null,
                         "last_commit": "2019-01-19T18:14:12Z",
                         "owner": "BobbyBabazadeh",
@@ -781,8 +796,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T14:53:22.777Z",
+    "last_updated": "2026-08-19T12:51:38.516Z",
     "original_repository": "DjangoEx/awesome-python-resources",
+    "original_repository_id": 489442970,
     "original_repository_sha": "8dc32337fc2f9a932385d46000256cf1a6162b9c",
     "enhanced_repository": "enhansome/enhansome-python-resources",
     "enhanced_repository_description": null,
