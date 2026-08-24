@@ -146,7 +146,7 @@
                         "last_commit": "2026-08-24T13:20:47Z",
                         "owner": "SeleniumHQ",
                         "repo": "selenium",
-                        "stars": 34387
+                        "stars": 34386
                       }
                     },
                     {
@@ -161,7 +161,7 @@
                         "last_commit": "2026-08-24T13:20:47Z",
                         "owner": "SeleniumHQ",
                         "repo": "selenium",
-                        "stars": 34387
+                        "stars": 34386
                       }
                     },
                     {
@@ -318,7 +318,7 @@
                         "last_commit": "2026-08-20T17:53:07Z",
                         "owner": "microsoft",
                         "repo": "playwright-python",
-                        "stars": 14943
+                        "stars": 14945
                       }
                     }
                   ]
@@ -457,7 +457,7 @@
                         "last_commit": "2026-08-18T15:34:30Z",
                         "owner": "aiogram",
                         "repo": "aiogram",
-                        "stars": 5839
+                        "stars": 5840
                       }
                     }
                   ]
@@ -796,7 +796,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:14:55.170Z",
+    "last_updated": "2026-08-24T15:01:27.803Z",
     "original_repository": "DjangoEx/awesome-python-resources",
     "original_repository_id": 489442970,
     "original_repository_sha": "8dc32337fc2f9a932385d46000256cf1a6162b9c",
