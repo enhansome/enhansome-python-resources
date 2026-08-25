@@ -30,7 +30,7 @@
                         "last_commit": "2026-08-18T13:46:11Z",
                         "owner": "wsvincent",
                         "repo": "awesome-django",
-                        "stars": 11222
+                        "stars": 11223
                       }
                     }
                   ]
@@ -56,10 +56,10 @@
                         "archived": false,
                         "id": 260928305,
                         "language": null,
-                        "last_commit": "2026-06-24T17:30:19Z",
+                        "last_commit": "2026-08-24T17:18:28Z",
                         "owner": "mjhea0",
                         "repo": "awesome-fastapi",
-                        "stars": 11618
+                        "stars": 11619
                       }
                     }
                   ]
@@ -88,7 +88,7 @@
                         "last_commit": "2024-12-30T09:48:42Z",
                         "owner": "ucg8j",
                         "repo": "awesome-dash",
-                        "stars": 2268
+                        "stars": 2269
                       }
                     }
                   ]
@@ -143,25 +143,25 @@
                         "archived": false,
                         "id": 7613257,
                         "language": "Java",
-                        "last_commit": "2026-08-24T13:20:47Z",
+                        "last_commit": "2026-08-25T00:26:08Z",
                         "owner": "SeleniumHQ",
                         "repo": "selenium",
-                        "stars": 34386
+                        "stars": 34390
                       }
                     },
                     {
                       "node_type": "item",
-                      "title": "Source",
+                      "title": "SeleniumHQ/selenium",
                       "description": null,
                       "children": [],
                       "repo_info": {
                         "archived": false,
                         "id": 7613257,
                         "language": "Java",
-                        "last_commit": "2026-08-24T13:20:47Z",
+                        "last_commit": "2026-08-25T00:26:08Z",
                         "owner": "SeleniumHQ",
                         "repo": "selenium",
-                        "stars": 34386
+                        "stars": 34390
                       }
                     },
                     {
@@ -176,7 +176,7 @@
                         "last_commit": "2025-03-03T17:10:09Z",
                         "owner": "InstaPy",
                         "repo": "InstaPy",
-                        "stars": 18162
+                        "stars": 18164
                       }
                     },
                     {
@@ -188,10 +188,10 @@
                         "archived": false,
                         "id": 17420614,
                         "language": "Python",
-                        "last_commit": "2026-08-24T02:07:04Z",
+                        "last_commit": "2026-08-25T02:16:07Z",
                         "owner": "seleniumbase",
                         "repo": "SeleniumBase",
-                        "stars": 12952
+                        "stars": 12954
                       }
                     },
                     {
@@ -266,7 +266,7 @@
                         "last_commit": "2026-08-24T00:20:36Z",
                         "owner": "tryolabs",
                         "repo": "requestium",
-                        "stars": 1831
+                        "stars": 1830
                       }
                     },
                     {
@@ -281,7 +281,7 @@
                         "last_commit": "2024-04-15T10:15:21Z",
                         "owner": "YoongiKim",
                         "repo": "AutoCrawler",
-                        "stars": 1692
+                        "stars": 1691
                       }
                     },
                     {
@@ -308,7 +308,7 @@
                   "children": [
                     {
                       "node_type": "item",
-                      "title": "Source",
+                      "title": "microsoft/playwright-python",
                       "description": null,
                       "children": [],
                       "repo_info": {
@@ -318,7 +318,7 @@
                         "last_commit": "2026-08-20T17:53:07Z",
                         "owner": "microsoft",
                         "repo": "playwright-python",
-                        "stars": 14945
+                        "stars": 14947
                       }
                     }
                   ]
@@ -330,7 +330,7 @@
                   "children": [
                     {
                       "node_type": "item",
-                      "title": "Source",
+                      "title": "nateshmbhat/webbot",
                       "description": null,
                       "children": [],
                       "repo_info": {
@@ -359,7 +359,7 @@
                   "children": [
                     {
                       "node_type": "item",
-                      "title": "Source",
+                      "title": "LonamiWebs/Telethon",
                       "description": null,
                       "children": [],
                       "repo_info": {
@@ -369,7 +369,7 @@
                         "last_commit": "2026-02-21T21:11:58Z",
                         "owner": "LonamiWebs",
                         "repo": "Telethon",
-                        "stars": 12060
+                        "stars": 12059
                       }
                     }
                   ]
@@ -381,7 +381,7 @@
                   "children": [
                     {
                       "node_type": "item",
-                      "title": "Source",
+                      "title": "pygram/pygram",
                       "description": null,
                       "children": [],
                       "repo_info": {
@@ -403,7 +403,7 @@
                   "children": [
                     {
                       "node_type": "item",
-                      "title": "Source",
+                      "title": "pyrogram/pyrogram",
                       "description": null,
                       "children": [],
                       "repo_info": {
@@ -425,7 +425,7 @@
                   "children": [
                     {
                       "node_type": "item",
-                      "title": "Source",
+                      "title": "python-telegram-bot/python-telegram-bot",
                       "description": null,
                       "children": [],
                       "repo_info": {
@@ -447,17 +447,17 @@
                   "children": [
                     {
                       "node_type": "item",
-                      "title": "Source",
+                      "title": "aiogram/aiogram",
                       "description": null,
                       "children": [],
                       "repo_info": {
                         "archived": false,
                         "id": 111210856,
                         "language": "Python",
-                        "last_commit": "2026-08-18T15:34:30Z",
+                        "last_commit": "2026-08-24T23:14:57Z",
                         "owner": "aiogram",
                         "repo": "aiogram",
-                        "stars": 5840
+                        "stars": 5844
                       }
                     }
                   ]
@@ -469,7 +469,7 @@
                   "children": [
                     {
                       "node_type": "item",
-                      "title": "Source",
+                      "title": "eternnoir/pyTelegramBotAPI",
                       "description": null,
                       "children": [],
                       "repo_info": {
@@ -479,7 +479,7 @@
                         "last_commit": "2026-08-22T22:38:47Z",
                         "owner": "eternnoir",
                         "repo": "pyTelegramBotAPI",
-                        "stars": 8762
+                        "stars": 8765
                       }
                     }
                   ]
@@ -491,7 +491,7 @@
                   "children": [
                     {
                       "node_type": "item",
-                      "title": "Source",
+                      "title": "KyleJamesWalker/telebot",
                       "description": null,
                       "children": [],
                       "repo_info": {
@@ -520,7 +520,7 @@
                   "children": [
                     {
                       "node_type": "item",
-                      "title": "Source",
+                      "title": "Rapptz/discord.py",
                       "description": null,
                       "children": [],
                       "repo_info": {
@@ -530,7 +530,7 @@
                         "last_commit": "2026-07-27T18:33:15Z",
                         "owner": "Rapptz",
                         "repo": "discord.py",
-                        "stars": 16148
+                        "stars": 16150
                       }
                     }
                   ]
@@ -549,7 +549,7 @@
                   "children": [
                     {
                       "node_type": "item",
-                      "title": "Source",
+                      "title": "InstaPy/InstaPy",
                       "description": null,
                       "children": [],
                       "repo_info": {
@@ -559,7 +559,7 @@
                         "last_commit": "2025-03-03T17:10:09Z",
                         "owner": "InstaPy",
                         "repo": "InstaPy",
-                        "stars": 18162
+                        "stars": 18164
                       }
                     }
                   ]
@@ -571,7 +571,7 @@
                   "children": [
                     {
                       "node_type": "item",
-                      "title": "Source",
+                      "title": "instaloader/instaloader",
                       "description": null,
                       "children": [],
                       "repo_info": {
@@ -581,7 +581,7 @@
                         "last_commit": "2026-07-26T09:19:23Z",
                         "owner": "instaloader",
                         "repo": "instaloader",
-                        "stars": 13219
+                        "stars": 13225
                       }
                     }
                   ]
@@ -623,7 +623,7 @@
                         "last_commit": "2026-07-10T04:45:12Z",
                         "owner": "memcached",
                         "repo": "memcached",
-                        "stars": 14257
+                        "stars": 14258
                       }
                     }
                   ]
@@ -659,7 +659,7 @@
                         "last_commit": "2026-08-23T19:39:31Z",
                         "owner": "django",
                         "repo": "django",
-                        "stars": 88762
+                        "stars": 88967
                       }
                     }
                   ]
@@ -688,7 +688,7 @@
                         "last_commit": "2026-08-23T19:21:34Z",
                         "owner": "coleifer",
                         "repo": "peewee",
-                        "stars": 11986
+                        "stars": 11985
                       }
                     }
                   ]
@@ -753,7 +753,7 @@
                         "last_commit": "2026-08-05T00:07:38Z",
                         "owner": "microsoft",
                         "repo": "api-guidelines",
-                        "stars": 23323
+                        "stars": 23325
                       }
                     }
                   ]
@@ -796,7 +796,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T15:01:27.803Z",
+    "last_updated": "2026-08-25T06:04:43.095Z",
     "original_repository": "DjangoEx/awesome-python-resources",
     "original_repository_id": 489442970,
     "original_repository_sha": "8dc32337fc2f9a932385d46000256cf1a6162b9c",
