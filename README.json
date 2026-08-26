@@ -59,7 +59,7 @@
                         "last_commit": "2026-08-24T17:18:28Z",
                         "owner": "mjhea0",
                         "repo": "awesome-fastapi",
-                        "stars": 11622
+                        "stars": 11625
                       }
                     }
                   ]
@@ -143,10 +143,10 @@
                         "archived": false,
                         "id": 7613257,
                         "language": "Java",
-                        "last_commit": "2026-08-25T00:26:08Z",
+                        "last_commit": "2026-08-26T00:26:24Z",
                         "owner": "SeleniumHQ",
                         "repo": "selenium",
-                        "stars": 34392
+                        "stars": 34395
                       }
                     },
                     {
@@ -158,10 +158,10 @@
                         "archived": false,
                         "id": 7613257,
                         "language": "Java",
-                        "last_commit": "2026-08-25T00:26:08Z",
+                        "last_commit": "2026-08-26T00:26:24Z",
                         "owner": "SeleniumHQ",
                         "repo": "selenium",
-                        "stars": 34392
+                        "stars": 34395
                       }
                     },
                     {
@@ -176,7 +176,7 @@
                         "last_commit": "2025-03-03T17:10:09Z",
                         "owner": "InstaPy",
                         "repo": "InstaPy",
-                        "stars": 18164
+                        "stars": 18167
                       }
                     },
                     {
@@ -188,10 +188,10 @@
                         "archived": false,
                         "id": 17420614,
                         "language": "Python",
-                        "last_commit": "2026-08-25T02:16:07Z",
+                        "last_commit": "2026-08-26T00:54:41Z",
                         "owner": "seleniumbase",
                         "repo": "SeleniumBase",
-                        "stars": 12955
+                        "stars": 12954
                       }
                     },
                     {
@@ -206,7 +206,7 @@
                         "last_commit": "2025-07-05T10:42:02Z",
                         "owner": "ultrafunkamsterdam",
                         "repo": "undetected-chromedriver",
-                        "stars": 12806
+                        "stars": 12808
                       }
                     },
                     {
@@ -221,7 +221,7 @@
                         "last_commit": "2026-08-10T07:25:19Z",
                         "owner": "mherrmann",
                         "repo": "helium",
-                        "stars": 8324
+                        "stars": 8323
                       }
                     },
                     {
@@ -251,7 +251,7 @@
                         "last_commit": "2024-01-03T15:34:32Z",
                         "owner": "wkeeling",
                         "repo": "selenium-wire",
-                        "stars": 1966
+                        "stars": 1965
                       }
                     },
                     {
@@ -318,7 +318,7 @@
                         "last_commit": "2026-08-20T17:53:07Z",
                         "owner": "microsoft",
                         "repo": "playwright-python",
-                        "stars": 14948
+                        "stars": 14952
                       }
                     }
                   ]
@@ -369,7 +369,7 @@
                         "last_commit": "2026-02-21T21:11:58Z",
                         "owner": "LonamiWebs",
                         "repo": "Telethon",
-                        "stars": 12059
+                        "stars": 12060
                       }
                     }
                   ]
@@ -435,7 +435,7 @@
                         "last_commit": "2026-08-23T20:54:04Z",
                         "owner": "python-telegram-bot",
                         "repo": "python-telegram-bot",
-                        "stars": 29427
+                        "stars": 29432
                       }
                     }
                   ]
@@ -454,10 +454,10 @@
                         "archived": false,
                         "id": 111210856,
                         "language": "Python",
-                        "last_commit": "2026-08-24T23:14:57Z",
+                        "last_commit": "2026-08-26T00:02:37Z",
                         "owner": "aiogram",
                         "repo": "aiogram",
-                        "stars": 5846
+                        "stars": 5848
                       }
                     }
                   ]
@@ -479,7 +479,7 @@
                         "last_commit": "2026-08-22T22:38:47Z",
                         "owner": "eternnoir",
                         "repo": "pyTelegramBotAPI",
-                        "stars": 8765
+                        "stars": 8766
                       }
                     }
                   ]
@@ -530,7 +530,7 @@
                         "last_commit": "2026-07-27T18:33:15Z",
                         "owner": "Rapptz",
                         "repo": "discord.py",
-                        "stars": 16153
+                        "stars": 16156
                       }
                     }
                   ]
@@ -559,7 +559,7 @@
                         "last_commit": "2025-03-03T17:10:09Z",
                         "owner": "InstaPy",
                         "repo": "InstaPy",
-                        "stars": 18164
+                        "stars": 18167
                       }
                     }
                   ]
@@ -581,7 +581,7 @@
                         "last_commit": "2026-07-26T09:19:23Z",
                         "owner": "instaloader",
                         "repo": "instaloader",
-                        "stars": 13226
+                        "stars": 13237
                       }
                     }
                   ]
@@ -659,7 +659,7 @@
                         "last_commit": "2026-08-23T19:39:31Z",
                         "owner": "django",
                         "repo": "django",
-                        "stars": 88967
+                        "stars": 88952
                       }
                     }
                   ]
@@ -685,10 +685,10 @@
                         "archived": false,
                         "id": 979480,
                         "language": "Python",
-                        "last_commit": "2026-08-23T19:21:34Z",
+                        "last_commit": "2026-08-25T16:28:46Z",
                         "owner": "coleifer",
                         "repo": "peewee",
-                        "stars": 11985
+                        "stars": 11986
                       }
                     }
                   ]
@@ -753,7 +753,7 @@
                         "last_commit": "2026-08-05T00:07:38Z",
                         "owner": "microsoft",
                         "repo": "api-guidelines",
-                        "stars": 23325
+                        "stars": 23327
                       }
                     }
                   ]
@@ -796,7 +796,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T15:06:46.493Z",
+    "last_updated": "2026-08-26T15:54:40.017Z",
     "original_repository": "DjangoEx/awesome-python-resources",
     "original_repository_id": 489442970,
     "original_repository_sha": "8dc32337fc2f9a932385d46000256cf1a6162b9c",
