@@ -25,12 +25,21 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "A curated list of awesome things related to Django",
+                        "homepage": "http://awesomedjango.org",
                         "id": 129094260,
                         "language": "Python",
+                        "license": "CC0-1.0",
                         "last_commit": "2026-08-18T13:46:11Z",
+                        "open_issues": 10,
                         "owner": "wsvincent",
                         "repo": "awesome-django",
-                        "stars": 11223
+                        "stars": 11223,
+                        "topics": [
+                          "awesome",
+                          "awesome-list",
+                          "django"
+                        ]
                       },
                       "first_seen": "2026-08-28T23:33:39.636Z"
                     }
@@ -55,12 +64,22 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "A curated list of awesome things related to FastAPI",
+                        "homepage": null,
                         "id": 260928305,
                         "language": null,
+                        "license": "CC0-1.0",
                         "last_commit": "2026-08-24T17:18:28Z",
+                        "open_issues": 2,
                         "owner": "mjhea0",
                         "repo": "awesome-fastapi",
-                        "stars": 11634
+                        "stars": 11634,
+                        "topics": [
+                          "awesome",
+                          "awesome-list",
+                          "fastapi",
+                          "starlette"
+                        ]
                       },
                       "first_seen": "2026-08-28T23:33:39.636Z"
                     }
@@ -85,12 +104,22 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "A curated list of awesome Dash (plotly) resources",
+                        "homepage": null,
                         "id": 107999883,
                         "language": "Python",
+                        "license": "CC0-1.0",
                         "last_commit": "2024-12-30T09:48:42Z",
+                        "open_issues": 1,
                         "owner": "ucg8j",
                         "repo": "awesome-dash",
-                        "stars": 2268
+                        "stars": 2268,
+                        "topics": [
+                          "awesome",
+                          "awesome-list",
+                          "plotly",
+                          "python"
+                        ]
                       },
                       "first_seen": "2026-08-28T23:33:39.636Z"
                     }
@@ -108,12 +137,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Template for enterprise application using Dash frontend with Flask backend",
+                        "homepage": null,
                         "id": 326438332,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2021-01-05T09:47:55Z",
+                        "open_issues": 0,
                         "owner": "CzakoZoltan08",
                         "repo": "dash-clean-architecture-template",
-                        "stars": 109
+                        "stars": 109,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T23:33:39.636Z"
                     }
@@ -145,12 +179,26 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "A browser automation framework and ecosystem.",
+                        "homepage": "https://selenium.dev",
                         "id": 7613257,
                         "language": "Java",
-                        "last_commit": "2026-08-28T20:13:47Z",
+                        "license": "Apache-2.0",
+                        "last_commit": "2026-08-29T00:51:27Z",
+                        "open_issues": 189,
                         "owner": "SeleniumHQ",
                         "repo": "selenium",
-                        "stars": 34414
+                        "stars": 34417,
+                        "topics": [
+                          "dotnet",
+                          "java",
+                          "javascript",
+                          "python",
+                          "ruby",
+                          "rust",
+                          "selenium",
+                          "webdriver"
+                        ]
                       },
                       "first_seen": "2026-08-28T23:33:39.636Z"
                     },
@@ -161,12 +209,26 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "A browser automation framework and ecosystem.",
+                        "homepage": "https://selenium.dev",
                         "id": 7613257,
                         "language": "Java",
-                        "last_commit": "2026-08-28T20:13:47Z",
+                        "license": "Apache-2.0",
+                        "last_commit": "2026-08-29T00:51:27Z",
+                        "open_issues": 189,
                         "owner": "SeleniumHQ",
                         "repo": "selenium",
-                        "stars": 34414
+                        "stars": 34417,
+                        "topics": [
+                          "dotnet",
+                          "java",
+                          "javascript",
+                          "python",
+                          "ruby",
+                          "rust",
+                          "selenium",
+                          "webdriver"
+                        ]
                       },
                       "first_seen": "2026-08-28T23:33:39.636Z"
                     },
@@ -177,12 +239,25 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "📷 Instagram Bot - Tool for automated Instagram interactions",
+                        "homepage": null,
                         "id": 69290591,
                         "language": "Python",
+                        "license": "GPL-3.0",
                         "last_commit": "2025-03-03T17:10:09Z",
+                        "open_issues": 584,
                         "owner": "InstaPy",
                         "repo": "InstaPy",
-                        "stars": 18176
+                        "stars": 18176,
+                        "topics": [
+                          "automation",
+                          "bot",
+                          "clarifai",
+                          "instagram",
+                          "python",
+                          "script",
+                          "selenium"
+                        ]
                       },
                       "first_seen": "2026-08-28T23:33:39.636Z"
                     },
@@ -193,12 +268,38 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "📊 APIs for web automation, testing, and bypassing bot-detection.",
+                        "homepage": "https://seleniumbase.io",
                         "id": 17420614,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2026-08-26T00:54:41Z",
+                        "open_issues": 14,
                         "owner": "seleniumbase",
                         "repo": "SeleniumBase",
-                        "stars": 12966
+                        "stars": 12968,
+                        "topics": [
+                          "anti-detection",
+                          "bot-detection",
+                          "chromedriver",
+                          "chromium",
+                          "data",
+                          "e2e-testing",
+                          "end-to-end-testing",
+                          "playwright",
+                          "pytest",
+                          "python",
+                          "python-scraper",
+                          "selenium",
+                          "selenium-python",
+                          "seleniumbase",
+                          "stealth",
+                          "test-automation",
+                          "web-automation",
+                          "web-scraping",
+                          "webdriver",
+                          "webscraping"
+                        ]
                       },
                       "first_seen": "2026-08-28T23:33:39.636Z"
                     },
@@ -209,12 +310,35 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperva/ Datadadome / CloudFlare IUAM)",
+                        "homepage": "https://github.com/UltrafunkAmsterdam/undetected-chromedriver",
                         "id": 229566288,
                         "language": "Python",
+                        "license": "GPL-3.0",
                         "last_commit": "2025-07-05T10:42:02Z",
+                        "open_issues": 1141,
                         "owner": "ultrafunkamsterdam",
                         "repo": "undetected-chromedriver",
-                        "stars": 12810
+                        "stars": 12810,
+                        "topics": [
+                          "anti-bot",
+                          "anti-detection",
+                          "automation",
+                          "bot-detection",
+                          "browser",
+                          "captcha",
+                          "chrome",
+                          "chromedriver",
+                          "cloudflare",
+                          "cloudflare-bypass",
+                          "distil",
+                          "navigator",
+                          "python3",
+                          "scraping",
+                          "selenium",
+                          "testing",
+                          "webdriver"
+                        ]
                       },
                       "first_seen": "2026-08-28T23:33:39.636Z"
                     },
@@ -225,12 +349,28 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Lighter web automation with Python",
+                        "homepage": null,
                         "id": 224234024,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2026-08-10T07:25:19Z",
+                        "open_issues": 55,
                         "owner": "mherrmann",
                         "repo": "helium",
-                        "stars": 8323
+                        "stars": 8323,
+                        "topics": [
+                          "chrome",
+                          "firefox",
+                          "helium",
+                          "python",
+                          "python3",
+                          "selenium",
+                          "selenium-python",
+                          "web-automation",
+                          "web-scraping",
+                          "webdriver"
+                        ]
                       },
                       "first_seen": "2026-08-28T23:33:39.636Z"
                     },
@@ -241,12 +381,23 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "splinter - python test framework for web applications ",
+                        "homepage": "http://splinter.readthedocs.org/en/stable/index.html",
                         "id": 921367,
                         "language": "Python",
+                        "license": "BSD-3-Clause",
                         "last_commit": "2025-08-16T15:08:24Z",
+                        "open_issues": 58,
                         "owner": "cobrateam",
                         "repo": "splinter",
-                        "stars": 2753
+                        "stars": 2753,
+                        "topics": [
+                          "automation",
+                          "hacktoberfest",
+                          "python",
+                          "selenium",
+                          "webdriver"
+                        ]
                       },
                       "first_seen": "2026-08-28T23:33:39.636Z"
                     },
@@ -257,12 +408,24 @@
                       "children": [],
                       "repo_info": {
                         "archived": true,
+                        "description": "Extends Selenium's Python bindings to give you the ability to inspect requests made by the browser.",
+                        "homepage": null,
                         "id": 137925467,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2024-01-03T15:34:32Z",
+                        "open_issues": 171,
                         "owner": "wkeeling",
                         "repo": "selenium-wire",
-                        "stars": 1965
+                        "stars": 1965,
+                        "topics": [
+                          "python",
+                          "testing",
+                          "testing-framework",
+                          "testing-library",
+                          "testing-tools",
+                          "web-testing"
+                        ]
                       },
                       "first_seen": "2026-08-28T23:33:39.636Z"
                     },
@@ -273,12 +436,23 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Integration layer between Requests and Selenium for automation of web actions.",
+                        "homepage": null,
                         "id": 95916519,
                         "language": "Python",
+                        "license": "BSD-3-Clause",
                         "last_commit": "2026-08-24T00:20:36Z",
+                        "open_issues": 8,
                         "owner": "tryolabs",
                         "repo": "requestium",
-                        "stars": 1830
+                        "stars": 1830,
+                        "topics": [
+                          "interface",
+                          "python",
+                          "requests",
+                          "selenium",
+                          "web-automation"
+                        ]
                       },
                       "first_seen": "2026-08-28T23:33:39.636Z"
                     },
@@ -289,12 +463,29 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Google, Naver multiprocess image web crawler (Selenium)",
+                        "homepage": null,
                         "id": 158573339,
                         "language": "Python",
+                        "license": "Apache-2.0",
                         "last_commit": "2024-04-15T10:15:21Z",
+                        "open_issues": 4,
                         "owner": "YoongiKim",
                         "repo": "AutoCrawler",
-                        "stars": 1691
+                        "stars": 1691,
+                        "topics": [
+                          "bigdata",
+                          "chromedriver",
+                          "crawler",
+                          "customizable",
+                          "deep-learning",
+                          "google",
+                          "image-crawler",
+                          "multiprocess",
+                          "python",
+                          "selenium",
+                          "thread"
+                        ]
                       },
                       "first_seen": "2026-08-28T23:33:39.636Z"
                     },
@@ -305,12 +496,25 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "In this project we will discuss working Selenium with cucumber",
+                        "homepage": null,
                         "id": 72855067,
                         "language": "HTML",
+                        "license": null,
                         "last_commit": "2025-05-15T17:43:34Z",
+                        "open_issues": 15,
                         "owner": "executeautomation",
                         "repo": "SeleniumWithCucucumber",
-                        "stars": 215
+                        "stars": 215,
+                        "topics": [
+                          "cucumber",
+                          "framework",
+                          "idea",
+                          "intellij",
+                          "java",
+                          "selenium",
+                          "webdriver"
+                        ]
                       },
                       "first_seen": "2026-08-28T23:33:39.636Z"
                     }
@@ -328,12 +532,22 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Python version of the Playwright testing and automation library.",
+                        "homepage": "https://playwright.dev/python/",
                         "id": 276414382,
                         "language": "Python",
+                        "license": "Apache-2.0",
                         "last_commit": "2026-08-27T17:52:48Z",
+                        "open_issues": 11,
                         "owner": "microsoft",
                         "repo": "playwright-python",
-                        "stars": 14960
+                        "stars": 14961,
+                        "topics": [
+                          "chromium",
+                          "firefox",
+                          "playwright",
+                          "webkit"
+                        ]
                       },
                       "first_seen": "2026-08-28T23:33:39.636Z"
                     }
@@ -351,12 +565,24 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Web automation library for simple and easy end to end testing and web browser automation that offers super charged features while keeping it simple to use and master",
+                        "homepage": "https://pypi.org/project/webbot/",
                         "id": 136581530,
                         "language": "Python",
+                        "license": "MPL-2.0",
                         "last_commit": "2026-08-06T07:41:39Z",
+                        "open_issues": 47,
                         "owner": "nateshmbhat",
                         "repo": "webbot",
-                        "stars": 252
+                        "stars": 252,
+                        "topics": [
+                          "automation",
+                          "python",
+                          "python3",
+                          "web-automation",
+                          "web-driver",
+                          "webbot"
+                        ]
                       },
                       "first_seen": "2026-08-28T23:33:39.636Z"
                     }
@@ -381,12 +607,25 @@
                       "children": [],
                       "repo_info": {
                         "archived": true,
+                        "description": "Pure Python 3 MTProto API Telegram client library, for bots too!",
+                        "homepage": "https://docs.telethon.dev",
                         "id": 66641037,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2026-02-21T21:11:58Z",
+                        "open_issues": 1,
                         "owner": "LonamiWebs",
                         "repo": "Telethon",
-                        "stars": 12057
+                        "stars": 12056,
+                        "topics": [
+                          "hacktoberfest",
+                          "library",
+                          "mtproto",
+                          "python-library",
+                          "telegram",
+                          "telegram-api",
+                          "telethon"
+                        ]
                       },
                       "first_seen": "2026-08-28T23:33:39.636Z"
                     }
@@ -404,12 +643,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "An open source grammar analyzer.",
+                        "homepage": null,
                         "id": 14880555,
                         "language": "CSS",
+                        "license": null,
                         "last_commit": "2013-12-16T20:20:56Z",
+                        "open_issues": 0,
                         "owner": "pygram",
                         "repo": "pygram",
-                        "stars": 45
+                        "stars": 45,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T23:33:39.636Z"
                     }
@@ -427,12 +671,26 @@
                       "children": [],
                       "repo_info": {
                         "archived": true,
+                        "description": "Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots",
+                        "homepage": "https://pyrogram.org",
                         "id": 113971228,
                         "language": "Python",
+                        "license": "LGPL-3.0",
                         "last_commit": "2024-12-23T21:00:22Z",
+                        "open_issues": 279,
                         "owner": "pyrogram",
                         "repo": "pyrogram",
-                        "stars": 4619
+                        "stars": 4619,
+                        "topics": [
+                          "async",
+                          "client",
+                          "framework",
+                          "library",
+                          "mtproto",
+                          "pyrogram",
+                          "python",
+                          "telegram"
+                        ]
                       },
                       "first_seen": "2026-08-28T23:33:39.636Z"
                     }
@@ -450,12 +708,23 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "We have made you a wrapper you can't refuse",
+                        "homepage": "https://python-telegram-bot.org",
                         "id": 38696925,
                         "language": "Python",
+                        "license": "GPL-3.0",
                         "last_commit": "2026-08-23T20:54:04Z",
+                        "open_issues": 41,
                         "owner": "python-telegram-bot",
                         "repo": "python-telegram-bot",
-                        "stars": 29437
+                        "stars": 29437,
+                        "topics": [
+                          "bot",
+                          "chatbot",
+                          "framework",
+                          "python",
+                          "telegram"
+                        ]
                       },
                       "first_seen": "2026-08-28T23:33:39.636Z"
                     }
@@ -473,12 +742,25 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "aiogram is a modern and fully asynchronous framework for Telegram Bot API written in Python using asyncio",
+                        "homepage": "https://aiogram.dev",
                         "id": 111210856,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2026-08-26T00:02:37Z",
+                        "open_issues": 62,
                         "owner": "aiogram",
                         "repo": "aiogram",
-                        "stars": 5851
+                        "stars": 5851,
+                        "topics": [
+                          "aiogram",
+                          "asyncio",
+                          "bot",
+                          "bot-framework",
+                          "python",
+                          "telegram-bot",
+                          "telegram-bot-api"
+                        ]
                       },
                       "first_seen": "2026-08-28T23:33:39.636Z"
                     }
@@ -496,12 +778,23 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Python Telegram bot api.",
+                        "homepage": null,
                         "id": 38095954,
                         "language": "Python",
+                        "license": "GPL-2.0",
                         "last_commit": "2026-08-28T11:24:54Z",
+                        "open_issues": 5,
                         "owner": "eternnoir",
                         "repo": "pyTelegramBotAPI",
-                        "stars": 8767
+                        "stars": 8766,
+                        "topics": [
+                          "bot-api",
+                          "python-api",
+                          "telegram",
+                          "telegram-bot",
+                          "telegram-bot-api"
+                        ]
                       },
                       "first_seen": "2026-08-28T23:33:39.636Z"
                     }
@@ -519,12 +812,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Small Telegram Bot Framework",
+                        "homepage": null,
                         "id": 38969252,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2023-04-26T04:34:43Z",
+                        "open_issues": 1,
                         "owner": "KyleJamesWalker",
                         "repo": "telebot",
-                        "stars": 53
+                        "stars": 53,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T23:33:39.636Z"
                     }
@@ -549,12 +847,25 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "An API wrapper for Discord written in Python.",
+                        "homepage": "http://discordpy.rtfd.org/en/latest",
                         "id": 41179827,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2026-07-27T18:33:15Z",
+                        "open_issues": 161,
                         "owner": "Rapptz",
                         "repo": "discord.py",
-                        "stars": 16158
+                        "stars": 16159,
+                        "topics": [
+                          "bot",
+                          "discord",
+                          "discord-api",
+                          "discord-bot",
+                          "discord-py",
+                          "python",
+                          "python-3"
+                        ]
                       },
                       "first_seen": "2026-08-28T23:33:39.636Z"
                     }
@@ -579,12 +890,25 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "📷 Instagram Bot - Tool for automated Instagram interactions",
+                        "homepage": null,
                         "id": 69290591,
                         "language": "Python",
+                        "license": "GPL-3.0",
                         "last_commit": "2025-03-03T17:10:09Z",
+                        "open_issues": 584,
                         "owner": "InstaPy",
                         "repo": "InstaPy",
-                        "stars": 18176
+                        "stars": 18176,
+                        "topics": [
+                          "automation",
+                          "bot",
+                          "clarifai",
+                          "instagram",
+                          "python",
+                          "script",
+                          "selenium"
+                        ]
                       },
                       "first_seen": "2026-08-28T23:33:39.636Z"
                     }
@@ -602,12 +926,33 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Download pictures (or videos) along with their captions and other metadata from Instagram.",
+                        "homepage": "https://instaloader.github.io/",
                         "id": 61200117,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2026-07-26T09:19:23Z",
+                        "open_issues": 58,
                         "owner": "instaloader",
                         "repo": "instaloader",
-                        "stars": 13256
+                        "stars": 13258,
+                        "topics": [
+                          "downloader",
+                          "instagram",
+                          "instagram-client",
+                          "instagram-downloader",
+                          "instagram-feed",
+                          "instagram-metadata",
+                          "instagram-photos",
+                          "instagram-scraper",
+                          "instagram-stories",
+                          "instagram-user-photos",
+                          "instaloader",
+                          "osint",
+                          "osint-python",
+                          "pictures",
+                          "videos"
+                        ]
                       },
                       "first_seen": "2026-08-28T23:33:39.636Z"
                     }
@@ -645,12 +990,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "memcached development tree",
+                        "homepage": "https://memcached.org",
                         "id": 184981,
                         "language": "C",
+                        "license": "BSD-3-Clause",
                         "last_commit": "2026-07-10T04:45:12Z",
+                        "open_issues": 103,
                         "owner": "memcached",
                         "repo": "memcached",
-                        "stars": 14259
+                        "stars": 14259,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T23:33:39.636Z"
                     }
@@ -682,12 +1032,27 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "The Web framework for perfectionists with deadlines.",
+                        "homepage": "https://www.djangoproject.com/",
                         "id": 4164482,
                         "language": "Python",
+                        "license": "BSD-3-Clause",
                         "last_commit": "2026-08-27T21:49:05Z",
+                        "open_issues": 479,
                         "owner": "django",
                         "repo": "django",
-                        "stars": 89028
+                        "stars": 89029,
+                        "topics": [
+                          "apps",
+                          "django",
+                          "framework",
+                          "models",
+                          "orm",
+                          "python",
+                          "templates",
+                          "views",
+                          "web"
+                        ]
                       },
                       "first_seen": "2026-08-28T23:33:39.636Z"
                     }
@@ -712,12 +1077,26 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "a small, expressive orm -- supports postgresql, mysql, sqlite, now with asyncio",
+                        "homepage": "http://docs.peewee-orm.com/",
                         "id": 979480,
                         "language": "Python",
-                        "last_commit": "2026-08-28T16:48:17Z",
+                        "license": "MIT",
+                        "last_commit": "2026-08-29T03:52:34Z",
+                        "open_issues": 0,
                         "owner": "coleifer",
                         "repo": "peewee",
-                        "stars": 11984
+                        "stars": 11984,
+                        "topics": [
+                          "asyncio",
+                          "dank",
+                          "fastapi",
+                          "flask",
+                          "gametight",
+                          "peewee",
+                          "python",
+                          "sqlite"
+                        ]
                       },
                       "first_seen": "2026-08-28T23:33:39.636Z"
                     }
@@ -742,12 +1121,27 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Pony Object Relational Mapper",
+                        "homepage": null,
                         "id": 8087816,
                         "language": "Python",
+                        "license": "Apache-2.0",
                         "last_commit": "2026-08-10T12:37:32Z",
+                        "open_issues": 359,
                         "owner": "ponyorm",
                         "repo": "pony",
-                        "stars": 3819
+                        "stars": 3819,
+                        "topics": [
+                          "cockroach",
+                          "cockroachdb",
+                          "mysql",
+                          "oracle",
+                          "orm",
+                          "postgresql",
+                          "python",
+                          "python3",
+                          "sqlite"
+                        ]
                       },
                       "first_seen": "2026-08-28T23:33:39.636Z"
                     }
@@ -779,12 +1173,22 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Microsoft REST API Guidelines",
+                        "homepage": null,
                         "id": 63188650,
                         "language": null,
+                        "license": "NOASSERTION",
                         "last_commit": "2026-08-05T00:07:38Z",
+                        "open_issues": 176,
                         "owner": "microsoft",
                         "repo": "api-guidelines",
-                        "stars": 23331
+                        "stars": 23332,
+                        "topics": [
+                          "api",
+                          "guidelines",
+                          "rest-api",
+                          "styleguide"
+                        ]
                       },
                       "first_seen": "2026-08-28T23:33:39.636Z"
                     }
@@ -809,12 +1213,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Checklist of the most important security countermeasures when designing, testing, and releasing your API",
+                        "homepage": null,
                         "id": 165518284,
                         "language": null,
+                        "license": "MIT",
                         "last_commit": "2019-01-19T18:14:12Z",
+                        "open_issues": 0,
                         "owner": "BobbyBabazadeh",
                         "repo": "API-Security-Checklist",
-                        "stars": 20
+                        "stars": 20,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T23:33:39.636Z"
                     }
@@ -829,15 +1238,36 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:33:39.636Z",
+    "last_updated": "2026-08-29T04:32:13.482Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome Python Resources",
+      "homepage": null,
       "id": 489442970,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2025-12-10T19:55:02Z",
+      "open_issues": 9,
       "owner": "DjangoEx",
       "repo": "awesome-python-resources",
-      "stars": 1455
+      "stars": 1455,
+      "topics": [
+        "algorithms",
+        "awesome",
+        "awesome-list",
+        "awesome-lists",
+        "clean-architecture",
+        "clean-code",
+        "django",
+        "fastapi",
+        "flask",
+        "object-oriented-programming",
+        "postgresql",
+        "python",
+        "redis",
+        "system-design",
+        "testing"
+      ]
     },
     "original_repository_sha": "8dc32337fc2f9a932385d46000256cf1a6162b9c",
     "enhanced_repository": "enhansome/enhansome-python-resources",
