@@ -5,7 +5,7 @@
 
 ### Contribution
 
-Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You are new to contribution process? For more information about the steps and guides, check out the [First Contribution Guide](https://github.com/firstcontributions/first-contributions) ⭐ 55,969 | 🐛 239 | 📅 2026-09-17.
+Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You are new to contribution process? For more information about the steps and guides, check out the [First Contribution Guide](https://github.com/firstcontributions/first-contributions) ⭐ 55,980 | 🐛 240 | 📅 2026-09-18.
 
 ### Table of Contents
 
@@ -78,7 +78,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     * [Codeforces](https://codeforces.com/)
 
   * **Repo**
-    * ✅ [Coding University](https://github.com/jwasham/coding-interview-university) ⭐ 361,104 | 🐛 125 | 📅 2025-08-28
+    * ✅ [Coding University](https://github.com/jwasham/coding-interview-university) ⭐ 361,155 | 🐛 125 | 📅 2025-08-28
     * [Algorithm solution and summary of Grokking book](https://github.com/msdundar/notes-algorithms) ⭐ 45 | 🐛 0 | 🌐 Python | 📅 2021-01-25
 
   * **Cheat Sheet**
@@ -257,7 +257,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
       * [Try Django 3.2 - Python Web Development Tutorial Series by Justin Mitchel](https://www.youtube.com/playlist?list=PLEsfXFp6DpzRMby_cSoWTFw8zaMdTEXgL)
 
     * **Awesome Django**
-      * [Awesome Django](https://github.com/wsvincent/awesome-django#readme) ⭐ 11,249 | 🐛 4 | 🌐 Python | 📅 2026-09-16
+      * [Awesome Django](https://github.com/wsvincent/awesome-django#readme) ⭐ 11,251 | 🐛 4 | 🌐 Python | 📅 2026-09-16
 
     * **Community**
       * [Django Discord group](https://discord.me/unofficial-django)
@@ -283,7 +283,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
       * [FastAPI Utilities documentation](https://fastapi-utils.davidmontague.xyz/)
 
     * **Awesome FastAPI**
-      * [Awesome FastAPI](https://github.com/mjhea0/awesome-fastapi#readme) ⭐ 11,666 | 🐛 8 | 📅 2026-08-24
+      * [Awesome FastAPI](https://github.com/mjhea0/awesome-fastapi#readme) ⭐ 11,667 | 🐛 8 | 📅 2026-08-24
 
     * **Community**
       * [FastApi Discord group](https://discord.gg/VQjSZaeJmf)
@@ -446,22 +446,22 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
   * #### Web
 
     * #### Selenium
-      * [Selenium (Main Home)](https://github.com/SeleniumHQ/selenium) ⭐ 34,494 | 🐛 189 | 🌐 Java | 📅 2026-09-17
-      * [Source](https://github.com/SeleniumHQ/selenium/tree/trunk/py) ⭐ 34,494 | 🐛 189 | 🌐 Java | 📅 2026-09-17
+      * [Selenium (Main Home)](https://github.com/SeleniumHQ/selenium) ⭐ 34,499 | 🐛 189 | 🌐 Java | 📅 2026-09-18
+      * [Source](https://github.com/SeleniumHQ/selenium/tree/trunk/py) ⭐ 34,499 | 🐛 189 | 🌐 Java | 📅 2026-09-18
       * [InstaPy](https://github.com/InstaPy/InstaPy) ⭐ 18,245 | 🐛 584 | 🌐 Python | 📅 2025-03-03
-      * [Base](https://github.com/seleniumbase/SeleniumBase) ⭐ 13,022 | 🐛 14 | 🌐 Python | 📅 2026-09-17
-      * [Undetected](https://github.com/ultrafunkamsterdam/undetected-chromedriver) ⭐ 12,841 | 🐛 1,141 | 🌐 Python | 📅 2025-07-05
+      * [Base](https://github.com/seleniumbase/SeleniumBase) ⭐ 13,025 | 🐛 14 | 🌐 Python | 📅 2026-09-18
+      * [Undetected](https://github.com/ultrafunkamsterdam/undetected-chromedriver) ⭐ 12,844 | 🐛 1,141 | 🌐 Python | 📅 2025-07-05
       * [Helium](https://github.com/mherrmann/selenium-python-helium) ⭐ 8,320 | 🐛 55 | 🌐 Python | 📅 2026-08-10
       * [Splinter](https://github.com/cobrateam/splinter) ⭐ 2,749 | 🐛 59 | 🌐 Python | 📅 2025-08-16
       * [Wire](https://github.com/wkeeling/selenium-wire) ⚠️ Archived
       * [Requestium](https://github.com/tryolabs/requestium) ⭐ 1,831 | 🐛 8 | 🌐 Python | 📅 2026-09-14
-      * [AutoCrawler](https://github.com/YoongiKim/AutoCrawler) ⭐ 1,692 | 🐛 4 | 🌐 Python | 📅 2026-08-30
+      * [AutoCrawler](https://github.com/YoongiKim/AutoCrawler) ⭐ 1,693 | 🐛 4 | 🌐 Python | 📅 2026-08-30
       * [Cucucumber](https://github.com/executeautomation/SeleniumWithCucucumber) ⭐ 215 | 🐛 15 | 🌐 HTML | 📅 2025-05-15
       * [CDP Documentation](https://chromedevtools.github.io/devtools-protocol/)
       * [Documentation](https://www.selenium.dev/selenium/docs/api/py/)
 
     * #### PlayWright
-      * [Source](https://github.com/microsoft/playwright-python) ⭐ 15,007 | 🐛 16 | 🌐 Python | 📅 2026-09-15
+      * [Source](https://github.com/microsoft/playwright-python) ⭐ 15,012 | 🐛 17 | 🌐 Python | 📅 2026-09-15
       * [Documentation](https://playwright.dev/python/docs/intro)
 
     * #### Browser
@@ -485,15 +485,15 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
       * [Documentation](https://docs.pyrogram.org/)
 
     * #### Python Telegram Bot
-      * [Source](https://github.com/python-telegram-bot/python-telegram-bot) ⭐ 29,468 | 🐛 30 | 🌐 Python | 📅 2026-09-17
+      * [Source](https://github.com/python-telegram-bot/python-telegram-bot) ⭐ 29,471 | 🐛 30 | 🌐 Python | 📅 2026-09-17
       * [Documentation](https://python-telegram-bot.readthedocs.io/)
 
     * #### AIOGram
-      * [Source](https://github.com/aiogram/aiogram) ⭐ 5,864 | 🐛 79 | 🌐 Python | 📅 2026-08-26
+      * [Source](https://github.com/aiogram/aiogram) ⭐ 5,865 | 🐛 79 | 🌐 Python | 📅 2026-08-26
       * [Documentation](https://docs.aiogram.dev/)
 
     * #### PyTelegramBotApi
-      * [Source](https://github.com/eternnoir/pyTelegramBotAPI) ⭐ 8,779 | 🐛 4 | 🌐 Python | 📅 2026-09-17
+      * [Source](https://github.com/eternnoir/pyTelegramBotAPI) ⭐ 8,781 | 🐛 5 | 🌐 Python | 📅 2026-09-17
       * [Documentation](https://pytba.readthedocs.io/)
 
     * #### TeleBot
@@ -501,7 +501,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
   * #### Discord
     * #### DiscordPy
-      * [Source](https://github.com/Rapptz/discord.py) ⭐ 16,186 | 🐛 171 | 🌐 Python | 📅 2026-09-07
+      * [Source](https://github.com/Rapptz/discord.py) ⭐ 16,187 | 🐛 172 | 🌐 Python | 📅 2026-09-07
       * [Documentation](https://discordpy.readthedocs.io)
 
   * #### Instagram
@@ -510,7 +510,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
     * #### InstaPy
       * [Source](https://github.com/InstaPy/InstaPy) ⭐ 18,245 | 🐛 584 | 🌐 Python | 📅 2025-03-03
     * ### Instaloader
-      * [Source](https://github.com/instaloader/instaloader) ⭐ 13,391 | 🐛 62 | 🌐 Python | 📅 2026-09-06
+      * [Source](https://github.com/instaloader/instaloader) ⭐ 13,394 | 🐛 62 | 🌐 Python | 📅 2026-09-06
 
 ## Advanced Topics
 
@@ -604,7 +604,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
   * #### MemCached
 
     * **Documentation**
-      * [MemCached Wiki](https://github.com/memcached/memcached/wiki) ⭐ 14,280 | 🐛 107 | 🌐 C | 📅 2026-09-11
+      * [MemCached Wiki](https://github.com/memcached/memcached/wiki) ⭐ 14,283 | 🐛 107 | 🌐 C | 📅 2026-09-11
 
   * #### Apache Cassandra
 
@@ -639,7 +639,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
       * [Django ORM documentation](https://docs.djangoproject.com/en/4.2/topics/db/)
 
     * **Tutorial**
-      * [Django ORM examples](https://github.com/django/django/tree/main/tests/queries) ⭐ 91,125 | 🐛 502 | 🌐 Python | 📅 2026-09-17 (in Django's official GitHub repository)
+      * [Django ORM examples](https://github.com/django/django/tree/main/tests/queries) ⭐ 91,139 | 🐛 499 | 🌐 Python | 📅 2026-09-18 (in Django's official GitHub repository)
       * [Using Django ORM Outside Of Framework](https://abdus.dev/posts/django-orm-standalone/)
       * [How to use FastAPI with Django ORM and Admin](https://nsikakimoh.com/blog/fastapi-and-django-orm)
 
@@ -657,7 +657,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
       * [Peewee documentation](http://docs.peewee-orm.com/en/latest/index.html)
 
     * **Tutorial**
-      * [Peewee ORM examples](https://github.com/coleifer/peewee/tree/master/examples) ⭐ 11,987 | 🐛 0 | 🌐 Python | 📅 2026-09-14
+      * [Peewee ORM examples](https://github.com/coleifer/peewee/tree/master/examples) ⭐ 11,989 | 🐛 0 | 🌐 Python | 📅 2026-09-14
       * [Peewee tutorial](http://docs.peewee-orm.com/en/latest/peewee/quickstart.html)
 
   * ### Pony
@@ -864,7 +864,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
   * #### Design
 
     * **Guidelines and Best Practices**
-      * [Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines) ⭐ 23,334 | 🐛 179 | 📅 2026-08-05
+      * [Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines) ⭐ 23,332 | 🐛 179 | 📅 2026-08-05
       * ✅ [Zalando RESTful API and Event Guidelines](https://opensource.zalando.com/restful-api-guidelines/)
 
   * #### Security
@@ -952,4 +952,4 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
