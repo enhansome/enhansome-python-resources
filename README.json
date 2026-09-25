@@ -34,7 +34,7 @@
                         "open_issues": 4,
                         "owner": "wsvincent",
                         "repo": "awesome-django",
-                        "stars": 11257,
+                        "stars": 11256,
                         "topics": [
                           "awesome",
                           "awesome-list",
@@ -70,10 +70,10 @@
                         "language": null,
                         "license": "CC0-1.0",
                         "last_commit": "2026-08-24T17:18:28Z",
-                        "open_issues": 12,
+                        "open_issues": 11,
                         "owner": "mjhea0",
                         "repo": "awesome-fastapi",
-                        "stars": 11679,
+                        "stars": 11680,
                         "topics": [
                           "awesome",
                           "awesome-list",
@@ -184,11 +184,11 @@
                         "id": 7613257,
                         "language": "Java",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-09-24T14:48:07Z",
-                        "open_issues": 189,
+                        "last_commit": "2026-09-25T17:34:13Z",
+                        "open_issues": 187,
                         "owner": "SeleniumHQ",
                         "repo": "selenium",
-                        "stars": 34515,
+                        "stars": 34511,
                         "topics": [
                           "dotnet",
                           "java",
@@ -214,11 +214,11 @@
                         "id": 7613257,
                         "language": "Java",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-09-24T14:48:07Z",
-                        "open_issues": 189,
+                        "last_commit": "2026-09-25T17:34:13Z",
+                        "open_issues": 187,
                         "owner": "SeleniumHQ",
                         "repo": "selenium",
-                        "stars": 34515,
+                        "stars": 34511,
                         "topics": [
                           "dotnet",
                           "java",
@@ -268,16 +268,16 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
-                        "description": "Browser automation framework + MCP server for web-scraping and testing. CDP Mode makes Chromium stealthy for bypassing bot-detection.",
+                        "description": "Browser automation framework and MCP server for web-scraping and testing. CDP Mode makes Chrome stealthy for bypassing bot-detection.",
                         "homepage": "https://seleniumbase.io",
                         "id": 17420614,
                         "language": "Python",
                         "license": "MIT",
-                        "last_commit": "2026-09-22T14:58:49Z",
+                        "last_commit": "2026-09-25T16:39:14Z",
                         "open_issues": 14,
                         "owner": "seleniumbase",
                         "repo": "SeleniumBase",
-                        "stars": 13031,
+                        "stars": 13035,
                         "topics": [
                           "anti-detection",
                           "bot-detection",
@@ -319,7 +319,7 @@
                         "open_issues": 1141,
                         "owner": "ultrafunkamsterdam",
                         "repo": "undetected-chromedriver",
-                        "stars": 12853,
+                        "stars": 12854,
                         "topics": [
                           "anti-bot",
                           "anti-detection",
@@ -358,7 +358,7 @@
                         "open_issues": 55,
                         "owner": "mherrmann",
                         "repo": "helium",
-                        "stars": 8318,
+                        "stars": 8319,
                         "topics": [
                           "chrome",
                           "firefox",
@@ -541,7 +541,7 @@
                         "open_issues": 17,
                         "owner": "microsoft",
                         "repo": "playwright-python",
-                        "stars": 15016,
+                        "stars": 15017,
                         "topics": [
                           "chromium",
                           "firefox",
@@ -717,7 +717,7 @@
                         "open_issues": 29,
                         "owner": "python-telegram-bot",
                         "repo": "python-telegram-bot",
-                        "stars": 29491,
+                        "stars": 29490,
                         "topics": [
                           "bot",
                           "chatbot",
@@ -748,10 +748,10 @@
                         "language": "Python",
                         "license": "MIT",
                         "last_commit": "2026-09-19T01:47:18Z",
-                        "open_issues": 84,
+                        "open_issues": 85,
                         "owner": "aiogram",
                         "repo": "aiogram",
-                        "stars": 5872,
+                        "stars": 5875,
                         "topics": [
                           "aiogram",
                           "asyncio",
@@ -932,10 +932,10 @@
                         "language": "Python",
                         "license": "MIT",
                         "last_commit": "2026-09-06T18:20:52Z",
-                        "open_issues": 64,
+                        "open_issues": 65,
                         "owner": "instaloader",
                         "repo": "instaloader",
-                        "stars": 13431,
+                        "stars": 13440,
                         "topics": [
                           "downloader",
                           "instagram",
@@ -999,7 +999,7 @@
                         "open_issues": 109,
                         "owner": "memcached",
                         "repo": "memcached",
-                        "stars": 14288,
+                        "stars": 14285,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:33:39.636Z"
@@ -1038,10 +1038,10 @@
                         "language": "Python",
                         "license": "BSD-3-Clause",
                         "last_commit": "2026-09-24T08:59:37Z",
-                        "open_issues": 511,
+                        "open_issues": 524,
                         "owner": "django",
                         "repo": "django",
-                        "stars": 91171,
+                        "stars": 91182,
                         "topics": [
                           "apps",
                           "django",
@@ -1086,7 +1086,7 @@
                         "open_issues": 1,
                         "owner": "coleifer",
                         "repo": "peewee",
-                        "stars": 11992,
+                        "stars": 11993,
                         "topics": [
                           "asyncio",
                           "dank",
@@ -1182,7 +1182,7 @@
                         "open_issues": 180,
                         "owner": "microsoft",
                         "repo": "api-guidelines",
-                        "stars": 23332,
+                        "stars": 23335,
                         "topics": [
                           "api",
                           "guidelines",
@@ -1238,7 +1238,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T18:25:57.311Z",
+    "last_updated": "2026-09-25T18:38:10.676Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Python Resources",
