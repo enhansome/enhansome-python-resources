@@ -21,7 +21,7 @@
                     {
                       "node_type": "item",
                       "title": "Awesome Django",
-                      "description": null,
+                      "description": "wsvincent/awesome-django",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -34,7 +34,7 @@
                         "open_issues": 5,
                         "owner": "wsvincent",
                         "repo": "awesome-django",
-                        "stars": 11267,
+                        "stars": 11268,
                         "topics": [
                           "awesome",
                           "awesome-list",
@@ -60,7 +60,7 @@
                     {
                       "node_type": "item",
                       "title": "Awesome FastAPI",
-                      "description": null,
+                      "description": "mjhea0/awesome-fastapi",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -70,10 +70,10 @@
                         "language": null,
                         "license": "CC0-1.0",
                         "last_commit": "2026-08-24T17:18:28Z",
-                        "open_issues": 13,
+                        "open_issues": 14,
                         "owner": "mjhea0",
                         "repo": "awesome-fastapi",
-                        "stars": 11699,
+                        "stars": 11702,
                         "topics": [
                           "awesome",
                           "awesome-list",
@@ -100,7 +100,7 @@
                     {
                       "node_type": "item",
                       "title": "Awesome Dash",
-                      "description": null,
+                      "description": "ucg8j/awesome-dash",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -133,7 +133,7 @@
                     {
                       "node_type": "item",
                       "title": "Dash Clean Architecture Template",
-                      "description": null,
+                      "description": "CzakoZoltan08/dash-clean-architecture-template",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -175,7 +175,7 @@
                     {
                       "node_type": "item",
                       "title": "Selenium (Main Home)",
-                      "description": null,
+                      "description": "SeleniumHQ/selenium",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -184,11 +184,11 @@
                         "id": 7613257,
                         "language": "Java",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-10-02T17:27:33Z",
-                        "open_issues": 192,
+                        "last_commit": "2026-10-03T00:59:23Z",
+                        "open_issues": 193,
                         "owner": "SeleniumHQ",
                         "repo": "selenium",
-                        "stars": 34516,
+                        "stars": 34518,
                         "topics": [
                           "dotnet",
                           "java",
@@ -205,7 +205,7 @@
                     {
                       "node_type": "item",
                       "title": "SeleniumHQ/selenium",
-                      "description": null,
+                      "description": "SeleniumHQ/selenium",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -214,11 +214,11 @@
                         "id": 7613257,
                         "language": "Java",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-10-02T17:27:33Z",
-                        "open_issues": 192,
+                        "last_commit": "2026-10-03T00:59:23Z",
+                        "open_issues": 193,
                         "owner": "SeleniumHQ",
                         "repo": "selenium",
-                        "stars": 34516,
+                        "stars": 34518,
                         "topics": [
                           "dotnet",
                           "java",
@@ -235,7 +235,7 @@
                     {
                       "node_type": "item",
                       "title": "InstaPy",
-                      "description": null,
+                      "description": "InstaPy/InstaPy",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -248,7 +248,7 @@
                         "open_issues": 583,
                         "owner": "InstaPy",
                         "repo": "InstaPy",
-                        "stars": 18277,
+                        "stars": 18276,
                         "topics": [
                           "automation",
                           "bot",
@@ -264,25 +264,26 @@
                     {
                       "node_type": "item",
                       "title": "Base",
-                      "description": null,
+                      "description": "seleniumbase/SeleniumBase",
                       "children": [],
                       "repo_info": {
                         "archived": false,
-                        "description": "📊 Python framework for Browser Automation, Web-Scraping, and Testing. CDP Mode provides Stealth, bypasses CAPTCHAs, and supports Playwright.",
+                        "description": "Python APIs for Browser Automation, E2E Testing, and Web Scraping. CDP Mode bypasses bot-detection and handles CAPTCHAs. Includes a Stealth mode for Playwright.",
                         "homepage": "https://seleniumbase.io",
                         "id": 17420614,
                         "language": "Python",
                         "license": "MIT",
-                        "last_commit": "2026-10-02T19:18:48Z",
+                        "last_commit": "2026-10-02T21:23:31Z",
                         "open_issues": 10,
                         "owner": "seleniumbase",
                         "repo": "SeleniumBase",
-                        "stars": 13046,
+                        "stars": 13045,
                         "topics": [
                           "anti-detection",
                           "bot-detection",
                           "chromedriver",
                           "chromium",
+                          "cloudflare-bypass",
                           "e2e-testing",
                           "end-to-end-testing",
                           "playwright",
@@ -293,7 +294,8 @@
                           "seleniumbase",
                           "test-automation",
                           "web-automation",
-                          "web-scraping"
+                          "web-scraping",
+                          "web-scraping-python"
                         ]
                       },
                       "first_seen": "2026-08-28T23:33:39.636Z"
@@ -301,7 +303,7 @@
                     {
                       "node_type": "item",
                       "title": "Undetected",
-                      "description": null,
+                      "description": "ultrafunkamsterdam/undetected-chromedriver",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -314,7 +316,7 @@
                         "open_issues": 1141,
                         "owner": "ultrafunkamsterdam",
                         "repo": "undetected-chromedriver",
-                        "stars": 12857,
+                        "stars": 12856,
                         "topics": [
                           "anti-bot",
                           "anti-detection",
@@ -340,7 +342,7 @@
                     {
                       "node_type": "item",
                       "title": "Helium",
-                      "description": null,
+                      "description": "mherrmann/helium",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -372,7 +374,7 @@
                     {
                       "node_type": "item",
                       "title": "Splinter",
-                      "description": null,
+                      "description": "cobrateam/splinter",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -399,7 +401,7 @@
                     {
                       "node_type": "item",
                       "title": "Wire",
-                      "description": null,
+                      "description": "wkeeling/selenium-wire",
                       "children": [],
                       "repo_info": {
                         "archived": true,
@@ -427,7 +429,7 @@
                     {
                       "node_type": "item",
                       "title": "Requestium",
-                      "description": null,
+                      "description": "tryolabs/requestium",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -454,7 +456,7 @@
                     {
                       "node_type": "item",
                       "title": "AutoCrawler",
-                      "description": null,
+                      "description": "YoongiKim/AutoCrawler",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -487,7 +489,7 @@
                     {
                       "node_type": "item",
                       "title": "Cucucumber",
-                      "description": null,
+                      "description": "executeautomation/SeleniumWithCucucumber",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -523,7 +525,7 @@
                     {
                       "node_type": "item",
                       "title": "microsoft/playwright-python",
-                      "description": null,
+                      "description": "microsoft/playwright-python",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -556,7 +558,7 @@
                     {
                       "node_type": "item",
                       "title": "nateshmbhat/webbot",
-                      "description": null,
+                      "description": "nateshmbhat/webbot",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -598,7 +600,7 @@
                     {
                       "node_type": "item",
                       "title": "LonamiWebs/Telethon",
-                      "description": null,
+                      "description": "LonamiWebs/Telethon",
                       "children": [],
                       "repo_info": {
                         "archived": true,
@@ -634,7 +636,7 @@
                     {
                       "node_type": "item",
                       "title": "pygram/pygram",
-                      "description": null,
+                      "description": "pygram/pygram",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -662,7 +664,7 @@
                     {
                       "node_type": "item",
                       "title": "pyrogram/pyrogram",
-                      "description": null,
+                      "description": "pyrogram/pyrogram",
                       "children": [],
                       "repo_info": {
                         "archived": true,
@@ -675,7 +677,7 @@
                         "open_issues": 280,
                         "owner": "pyrogram",
                         "repo": "pyrogram",
-                        "stars": 4615,
+                        "stars": 4616,
                         "topics": [
                           "async",
                           "client",
@@ -699,7 +701,7 @@
                     {
                       "node_type": "item",
                       "title": "python-telegram-bot/python-telegram-bot",
-                      "description": null,
+                      "description": "python-telegram-bot/python-telegram-bot",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -733,7 +735,7 @@
                     {
                       "node_type": "item",
                       "title": "aiogram/aiogram",
-                      "description": null,
+                      "description": "aiogram/aiogram",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -769,7 +771,7 @@
                     {
                       "node_type": "item",
                       "title": "eternnoir/pyTelegramBotAPI",
-                      "description": null,
+                      "description": "eternnoir/pyTelegramBotAPI",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -803,7 +805,7 @@
                     {
                       "node_type": "item",
                       "title": "KyleJamesWalker/telebot",
-                      "description": null,
+                      "description": "KyleJamesWalker/telebot",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -838,7 +840,7 @@
                     {
                       "node_type": "item",
                       "title": "Rapptz/discord.py",
-                      "description": null,
+                      "description": "Rapptz/discord.py",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -851,7 +853,7 @@
                         "open_issues": 176,
                         "owner": "Rapptz",
                         "repo": "discord.py",
-                        "stars": 16192,
+                        "stars": 16193,
                         "topics": [
                           "bot",
                           "discord",
@@ -881,7 +883,7 @@
                     {
                       "node_type": "item",
                       "title": "InstaPy/InstaPy",
-                      "description": null,
+                      "description": "InstaPy/InstaPy",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -894,7 +896,7 @@
                         "open_issues": 583,
                         "owner": "InstaPy",
                         "repo": "InstaPy",
-                        "stars": 18277,
+                        "stars": 18276,
                         "topics": [
                           "automation",
                           "bot",
@@ -917,7 +919,7 @@
                     {
                       "node_type": "item",
                       "title": "instaloader/instaloader",
-                      "description": null,
+                      "description": "instaloader/instaloader",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -930,7 +932,7 @@
                         "open_issues": 66,
                         "owner": "instaloader",
                         "repo": "instaloader",
-                        "stars": 13473,
+                        "stars": 13476,
                         "topics": [
                           "downloader",
                           "instagram",
@@ -981,7 +983,7 @@
                     {
                       "node_type": "item",
                       "title": "MemCached Wiki",
-                      "description": null,
+                      "description": "memcached/memcached",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1032,8 +1034,8 @@
                         "id": 4164482,
                         "language": "Python",
                         "license": "BSD-3-Clause",
-                        "last_commit": "2026-10-02T17:17:38Z",
-                        "open_issues": 526,
+                        "last_commit": "2026-10-02T21:29:29Z",
+                        "open_issues": 525,
                         "owner": "django",
                         "repo": "django",
                         "stars": 91221,
@@ -1068,7 +1070,7 @@
                     {
                       "node_type": "item",
                       "title": "Peewee ORM examples",
-                      "description": null,
+                      "description": "coleifer/peewee",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1077,7 +1079,7 @@
                         "id": 979480,
                         "language": "Python",
                         "license": "MIT",
-                        "last_commit": "2026-09-30T13:17:15Z",
+                        "last_commit": "2026-10-02T21:21:36Z",
                         "open_issues": 0,
                         "owner": "coleifer",
                         "repo": "peewee",
@@ -1112,7 +1114,7 @@
                     {
                       "node_type": "item",
                       "title": "Pony ORM examples",
-                      "description": null,
+                      "description": "ponyorm/pony",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1164,7 +1166,7 @@
                     {
                       "node_type": "item",
                       "title": "Microsoft REST API Guidelines",
-                      "description": null,
+                      "description": "microsoft/api-guidelines",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1204,7 +1206,7 @@
                     {
                       "node_type": "item",
                       "title": "API Security Checklist",
-                      "description": null,
+                      "description": "BobbyBabazadeh/API-Security-Checklist",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1233,7 +1235,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:20:47.426Z",
+    "last_updated": "2026-10-03T05:05:58.992Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Python Resources",
