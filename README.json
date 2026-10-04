@@ -30,11 +30,11 @@
                         "id": 129094260,
                         "language": "Python",
                         "license": "CC0-1.0",
-                        "last_commit": "2026-09-16T14:16:35Z",
-                        "open_issues": 5,
+                        "last_commit": "2026-10-04T00:31:42Z",
+                        "open_issues": 4,
                         "owner": "wsvincent",
                         "repo": "awesome-django",
-                        "stars": 11269,
+                        "stars": 11270,
                         "topics": [
                           "awesome",
                           "awesome-list",
@@ -70,10 +70,10 @@
                         "language": null,
                         "license": "CC0-1.0",
                         "last_commit": "2026-08-24T17:18:28Z",
-                        "open_issues": 14,
+                        "open_issues": 13,
                         "owner": "mjhea0",
                         "repo": "awesome-fastapi",
-                        "stars": 11703,
+                        "stars": 11705,
                         "topics": [
                           "awesome",
                           "awesome-list",
@@ -113,7 +113,7 @@
                         "open_issues": 1,
                         "owner": "ucg8j",
                         "repo": "awesome-dash",
-                        "stars": 2272,
+                        "stars": 2271,
                         "topics": [
                           "awesome",
                           "awesome-list",
@@ -185,10 +185,10 @@
                         "language": "Java",
                         "license": "Apache-2.0",
                         "last_commit": "2026-10-03T00:59:23Z",
-                        "open_issues": 194,
+                        "open_issues": 195,
                         "owner": "SeleniumHQ",
                         "repo": "selenium",
-                        "stars": 34517,
+                        "stars": 34518,
                         "topics": [
                           "dotnet",
                           "java",
@@ -215,10 +215,10 @@
                         "language": "Java",
                         "license": "Apache-2.0",
                         "last_commit": "2026-10-03T00:59:23Z",
-                        "open_issues": 194,
+                        "open_issues": 195,
                         "owner": "SeleniumHQ",
                         "repo": "selenium",
-                        "stars": 34517,
+                        "stars": 34518,
                         "topics": [
                           "dotnet",
                           "java",
@@ -248,7 +248,7 @@
                         "open_issues": 583,
                         "owner": "InstaPy",
                         "repo": "InstaPy",
-                        "stars": 18276,
+                        "stars": 18279,
                         "topics": [
                           "automation",
                           "bot",
@@ -277,7 +277,7 @@
                         "open_issues": 10,
                         "owner": "seleniumbase",
                         "repo": "SeleniumBase",
-                        "stars": 13048,
+                        "stars": 13051,
                         "topics": [
                           "anti-detection",
                           "bot-detection",
@@ -316,7 +316,7 @@
                         "open_issues": 1141,
                         "owner": "ultrafunkamsterdam",
                         "repo": "undetected-chromedriver",
-                        "stars": 12857,
+                        "stars": 12860,
                         "topics": [
                           "anti-bot",
                           "anti-detection",
@@ -355,7 +355,7 @@
                         "open_issues": 55,
                         "owner": "mherrmann",
                         "repo": "helium",
-                        "stars": 8327,
+                        "stars": 8326,
                         "topics": [
                           "chrome",
                           "firefox",
@@ -442,7 +442,7 @@
                         "open_issues": 1,
                         "owner": "tryolabs",
                         "repo": "requestium",
-                        "stars": 1832,
+                        "stars": 1833,
                         "topics": [
                           "interface",
                           "python",
@@ -538,7 +538,7 @@
                         "open_issues": 22,
                         "owner": "microsoft",
                         "repo": "playwright-python",
-                        "stars": 15023,
+                        "stars": 15026,
                         "topics": [
                           "chromium",
                           "firefox",
@@ -677,7 +677,7 @@
                         "open_issues": 280,
                         "owner": "pyrogram",
                         "repo": "pyrogram",
-                        "stars": 4616,
+                        "stars": 4617,
                         "topics": [
                           "async",
                           "client",
@@ -714,7 +714,7 @@
                         "open_issues": 29,
                         "owner": "python-telegram-bot",
                         "repo": "python-telegram-bot",
-                        "stars": 29506,
+                        "stars": 29509,
                         "topics": [
                           "bot",
                           "chatbot",
@@ -748,7 +748,7 @@
                         "open_issues": 95,
                         "owner": "aiogram",
                         "repo": "aiogram",
-                        "stars": 5883,
+                        "stars": 5886,
                         "topics": [
                           "aiogram",
                           "asyncio",
@@ -850,10 +850,10 @@
                         "language": "Python",
                         "license": "MIT",
                         "last_commit": "2026-09-07T18:11:46Z",
-                        "open_issues": 175,
+                        "open_issues": 176,
                         "owner": "Rapptz",
                         "repo": "discord.py",
-                        "stars": 16192,
+                        "stars": 16194,
                         "topics": [
                           "bot",
                           "discord",
@@ -896,7 +896,7 @@
                         "open_issues": 583,
                         "owner": "InstaPy",
                         "repo": "InstaPy",
-                        "stars": 18276,
+                        "stars": 18279,
                         "topics": [
                           "automation",
                           "bot",
@@ -932,7 +932,7 @@
                         "open_issues": 66,
                         "owner": "instaloader",
                         "repo": "instaloader",
-                        "stars": 13482,
+                        "stars": 13489,
                         "topics": [
                           "downloader",
                           "instagram",
@@ -996,7 +996,7 @@
                         "open_issues": 110,
                         "owner": "memcached",
                         "repo": "memcached",
-                        "stars": 14287,
+                        "stars": 14288,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:33:39.636Z"
@@ -1035,10 +1035,10 @@
                         "language": "Python",
                         "license": "BSD-3-Clause",
                         "last_commit": "2026-10-03T15:23:24Z",
-                        "open_issues": 527,
+                        "open_issues": 531,
                         "owner": "django",
                         "repo": "django",
-                        "stars": 91233,
+                        "stars": 91306,
                         "topics": [
                           "apps",
                           "django",
@@ -1079,7 +1079,7 @@
                         "id": 979480,
                         "language": "Python",
                         "license": "MIT",
-                        "last_commit": "2026-10-03T16:01:19Z",
+                        "last_commit": "2026-10-03T20:46:02Z",
                         "open_issues": 0,
                         "owner": "coleifer",
                         "repo": "peewee",
@@ -1179,7 +1179,7 @@
                         "open_issues": 182,
                         "owner": "microsoft",
                         "repo": "api-guidelines",
-                        "stars": 23334,
+                        "stars": 23335,
                         "topics": [
                           "api",
                           "guidelines",
@@ -1235,7 +1235,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T17:57:35.970Z",
+    "last_updated": "2026-10-04T18:10:18.365Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Python Resources",
