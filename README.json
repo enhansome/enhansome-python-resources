@@ -34,7 +34,7 @@
                         "open_issues": 3,
                         "owner": "wsvincent",
                         "repo": "awesome-django",
-                        "stars": 11299,
+                        "stars": 11301,
                         "topics": [
                           "awesome",
                           "awesome-list",
@@ -73,7 +73,7 @@
                         "open_issues": 36,
                         "owner": "mjhea0",
                         "repo": "awesome-fastapi",
-                        "stars": 11770,
+                        "stars": 11769,
                         "topics": [
                           "awesome",
                           "awesome-list",
@@ -184,7 +184,7 @@
                         "id": 7613257,
                         "language": "Java",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-11-07T00:15:16Z",
+                        "last_commit": "2026-11-08T00:16:31Z",
                         "open_issues": 191,
                         "owner": "SeleniumHQ",
                         "repo": "selenium",
@@ -214,7 +214,7 @@
                         "id": 7613257,
                         "language": "Java",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-11-07T00:15:16Z",
+                        "last_commit": "2026-11-08T00:16:31Z",
                         "open_issues": 191,
                         "owner": "SeleniumHQ",
                         "repo": "selenium",
@@ -248,7 +248,7 @@
                         "open_issues": 584,
                         "owner": "InstaPy",
                         "repo": "InstaPy",
-                        "stars": 18369,
+                        "stars": 18372,
                         "topics": [
                           "automation",
                           "bot",
@@ -268,7 +268,7 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
-                        "description": "Browser automation, web scraping, and testing. CDP Mode provides a Stealthy Chromium instance that bypasses bot-detection systems. Includes an MCP server.",
+                        "description": "SeleniumBase is a framework for UI Testing, Web Scraping, and Stealth. Passes every bot-detection test with CDP Mode, and extends Playwright.",
                         "homepage": "https://seleniumbase.io",
                         "id": 17420614,
                         "language": "Python",
@@ -315,7 +315,7 @@
                         "open_issues": 1142,
                         "owner": "ultrafunkamsterdam",
                         "repo": "undetected-chromedriver",
-                        "stars": 12900,
+                        "stars": 12898,
                         "topics": [
                           "anti-bot",
                           "anti-detection",
@@ -386,7 +386,7 @@
                         "open_issues": 60,
                         "owner": "cobrateam",
                         "repo": "splinter",
-                        "stars": 2749,
+                        "stars": 2750,
                         "topics": [
                           "automation",
                           "hacktoberfest",
@@ -468,7 +468,7 @@
                         "open_issues": 3,
                         "owner": "YoongiKim",
                         "repo": "AutoCrawler",
-                        "stars": 1699,
+                        "stars": 1700,
                         "topics": [
                           "bigdata",
                           "chromedriver",
@@ -537,7 +537,7 @@
                         "open_issues": 2,
                         "owner": "microsoft",
                         "repo": "playwright-python",
-                        "stars": 15090,
+                        "stars": 15091,
                         "topics": [
                           "chromium",
                           "firefox",
@@ -682,7 +682,7 @@
                         "language": "Python",
                         "license": "GPL-3.0",
                         "last_commit": "2026-11-01T02:46:46Z",
-                        "open_issues": 42,
+                        "open_issues": 39,
                         "owner": "python-telegram-bot",
                         "repo": "python-telegram-bot",
                         "stars": 29564,
@@ -715,11 +715,11 @@
                         "id": 111210856,
                         "language": "Python",
                         "license": "MIT",
-                        "last_commit": "2026-11-01T18:45:57Z",
-                        "open_issues": 63,
+                        "last_commit": "2026-11-08T14:03:27Z",
+                        "open_issues": 64,
                         "owner": "aiogram",
                         "repo": "aiogram",
-                        "stars": 5917,
+                        "stars": 5919,
                         "topics": [
                           "aiogram",
                           "asyncio",
@@ -755,7 +755,7 @@
                         "open_issues": 3,
                         "owner": "eternnoir",
                         "repo": "pyTelegramBotAPI",
-                        "stars": 8793,
+                        "stars": 8794,
                         "topics": [
                           "bot-api",
                           "python-api",
@@ -867,7 +867,7 @@
                         "open_issues": 584,
                         "owner": "InstaPy",
                         "repo": "InstaPy",
-                        "stars": 18369,
+                        "stars": 18372,
                         "topics": [
                           "automation",
                           "bot",
@@ -900,10 +900,10 @@
                         "language": "Python",
                         "license": "MIT",
                         "last_commit": "2026-11-01T19:20:46Z",
-                        "open_issues": 72,
+                        "open_issues": 65,
                         "owner": "instaloader",
                         "repo": "instaloader",
-                        "stars": 13803,
+                        "stars": 13822,
                         "topics": [
                           "downloader",
                           "instagram",
@@ -967,7 +967,7 @@
                         "open_issues": 128,
                         "owner": "memcached",
                         "repo": "memcached",
-                        "stars": 14302,
+                        "stars": 14300,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:33:39.636Z"
@@ -1009,7 +1009,7 @@
                         "open_issues": 537,
                         "owner": "django",
                         "repo": "django",
-                        "stars": 91677,
+                        "stars": 91690,
                         "topics": [
                           "apps",
                           "django",
@@ -1050,11 +1050,11 @@
                         "id": 979480,
                         "language": "Python",
                         "license": "MIT",
-                        "last_commit": "2026-11-05T02:34:37Z",
+                        "last_commit": "2026-11-08T14:30:51Z",
                         "open_issues": 0,
                         "owner": "coleifer",
                         "repo": "peewee",
-                        "stars": 12006,
+                        "stars": 12005,
                         "topics": [
                           "asyncio",
                           "dank",
@@ -1150,7 +1150,7 @@
                         "open_issues": 183,
                         "owner": "microsoft",
                         "repo": "api-guidelines",
-                        "stars": 23345,
+                        "stars": 23343,
                         "topics": [
                           "api",
                           "guidelines",
@@ -1206,7 +1206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T18:48:52.335Z",
+    "last_updated": "2026-11-08T18:50:13.594Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Python Resources",
